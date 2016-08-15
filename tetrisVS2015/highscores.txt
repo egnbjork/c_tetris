@@ -1,0 +1,41 @@
+
+
+name: "Claude Monet"
+level: "1"
+score: "390"
+
+name: "Tom Lewis"
+level: "2"
+score: "90"
+
+name: "Nicki Minaj"
+level: "1"
+score: "75"
+
+name: "Panasonic the tv"
+level: "2"
+score: "60"
+
+name: "Jessica Rabbit"
+level: "1"
+score: "30"
+
+name: "Piggy the pig"
+level: "1"
+score: "30"
+
+name: "Boo the tiger"
+level: "1"
+score: "15"
+
+name: "Benny the dog"
+level: "1"
+score: "15"
+
+name: ""
+level: "0"
+score: "0"
+
+name: "Lil Wayne"
+level: "2"
+score: "90"
